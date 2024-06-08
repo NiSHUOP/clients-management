@@ -37,10 +37,10 @@ Check out the live demo [here](https://react-contact-ecc54.web.app/).
 
 ## Installation
 
-Check out link for React Vite installation [here](https://vitejs.dev/guide/).
-For Firebase connection check out [here](https://firebase.google.com/docs/web/setup).
+- Check out link for React Vite installation [here](https://vitejs.dev/guide/).
+- For Firebase connection check out [here](https://firebase.google.com/docs/web/setup).
 
-1. **Clone the repository:**
+ **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/clients-management.git
