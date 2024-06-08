@@ -17,6 +17,8 @@ This repository contains a clients management application built with React and V
 - **Firebase**: Serves as the backend to handle data storage and authentication.
 - **CRUD Operations**: Allows creating, reading, updating, and deleting client data.
 - **Toastify**: Provides relevant and user-friendly alerts for different operations performed on the data.
+- **Bootstrap**: Helps with the responsiveness of container and form arrangements.
+
 
 ## Technologies Used
 
@@ -24,6 +26,8 @@ This repository contains a clients management application built with React and V
 - **Vite**: Next-generation frontend tooling for fast and optimized builds.
 - **Firebase**: Backend as a Service (BaaS) for database and authentication.
 - **Toastify**: Library for displaying beautiful and customizable toast notifications.
+- **Bootstrap**: A popular CSS framework for developing responsive and mobile-first websites.
+
 
 ## Screenshots
 
