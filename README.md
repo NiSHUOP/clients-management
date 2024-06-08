@@ -32,11 +32,11 @@ This repository contains a clients management application built with React and V
 ## Usage
 **Instructions on how to use the application. For example:**
 
-**Add Client:** Fill out the client form and submit to add a new client.
-**View Clients:** See a list of all clients with their details.
-**Edit Client:** Click on the edit button next to a client to update their information.
-**Delete Client:** Click on the delete button next to a client to remove them from the list.
-**Alerts:** Receive notifications for each operation (add, update, delete) performed.
+- **Add Client:** Fill out the client form and submit to add a new client.
+- **View Clients:** See a list of all clients with their details.
+- **Edit Client:** Click on the edit button next to a client to update their information.
+- **Delete Client:** Click on the delete button next to a client to remove them from the list.
+- **Alerts:** Receive notifications for each operation (add, update, delete) performed.
 
 
 
