@@ -1,8 +1,25 @@
-# React + Vite
+# Clients Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a clients management application built with React and Vite for the frontend, and Firebase for the backend. The application is designed to perform CRUD (Create, Read, Update, Delete) operations on client data, with real-time alerts using Toastify for various operations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React with Vite**: Utilizes the fast and optimized Vite build tool for the React frontend.
+- **Firebase**: Serves as the backend to handle data storage and authentication.
+- **CRUD Operations**: Allows creating, reading, updating, and deleting client data.
+- **Toastify**: Provides relevant and user-friendly alerts for different operations performed on the data.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Next-generation frontend tooling for fast and optimized builds.
+- **Firebase**: Backend as a Service (BaaS) for database and authentication.
+- **Toastify**: Library for displaying beautiful and customizable toast notifications.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/clients-management.git
+   cd clients-management
