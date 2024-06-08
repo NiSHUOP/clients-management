@@ -2,6 +2,15 @@
 
 This repository contains a clients management application built with React and Vite for the frontend, and Firebase for the backend. The application is designed to perform CRUD (Create, Read, Update, Delete) operations on client data, with real-time alerts using Toastify for various operations.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+
 ## Features
 
 - **React with Vite**: Utilizes the fast and optimized Vite build tool for the React frontend.
@@ -16,10 +25,33 @@ This repository contains a clients management application built with React and V
 - **Firebase**: Backend as a Service (BaaS) for database and authentication.
 - **Toastify**: Library for displaying beautiful and customizable toast notifications.
 
+## Screenshots
+
+![Add Client](./public/screenshots/add-client.png)
+![View Clients](./public/screenshots/view-clients.png)
+![Update Clients](./public/screenshots/update-client.png)
+
+## Demo
+
+Check out the live demo [here](https://react-contact-ecc54.web.app/).
+
 ## Installation
+
+Check out link for React Vite installation [here](https://vitejs.dev/guide/).
+For Firebase connection check out [here](https://firebase.google.com/docs/web/setup).
 
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/clients-management.git
    cd clients-management
+
+
+## Usage
+**Instructions on how to use the application. For example:**
+
+**Add Client:** Fill out the client form and submit to add a new client.
+**View Clients:** See a list of all clients with their details.
+**Edit Client:** Click on the edit button next to a client to update their information.
+**Delete Client:** Click on the delete button next to a client to remove them from the list.
+**Alerts:** Receive notifications for each operation (add, update, delete) performed.
