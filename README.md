@@ -6,10 +6,11 @@ This repository contains a clients management application built with React and V
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 ## Features
 
@@ -27,6 +28,16 @@ This repository contains a clients management application built with React and V
 - **Firebase**: Backend as a Service (BaaS) for database and authentication.
 - **Toastify**: Library for displaying beautiful and customizable toast notifications.
 - **Bootstrap**: A popular CSS framework for developing responsive and mobile-first websites.
+
+## Usage
+**Instructions on how to use the application. For example:**
+
+**Add Client:** Fill out the client form and submit to add a new client.
+**View Clients:** See a list of all clients with their details.
+**Edit Client:** Click on the edit button next to a client to update their information.
+**Delete Client:** Click on the delete button next to a client to remove them from the list.
+**Alerts:** Receive notifications for each operation (add, update, delete) performed.
+
 
 
 ## Screenshots
@@ -49,13 +60,3 @@ Check out the live demo [here](https://react-contact-ecc54.web.app/).
    ```bash
    git clone https://github.com/your-username/clients-management.git
    cd clients-management
-
-
-## Usage
-**Instructions on how to use the application. For example:**
-
-**Add Client:** Fill out the client form and submit to add a new client.
-**View Clients:** See a list of all clients with their details.
-**Edit Client:** Click on the edit button next to a client to update their information.
-**Delete Client:** Click on the delete button next to a client to remove them from the list.
-**Alerts:** Receive notifications for each operation (add, update, delete) performed.
